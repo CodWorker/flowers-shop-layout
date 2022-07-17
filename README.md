@@ -2,7 +2,7 @@
 
 In this website uses technologies such as HTML, CSS, JQUERY, BOOTSTRAP 4
 See result by link below.
-[Go to website](https://codworker.github.io/flowers-shop-layout/)
+Link to website - [https://codworker.github.io/flowers-shop-layout/](https://codworker.github.io/flowers-shop-layout/)
 
 ------------------------------------------------------------------
 [Go to portfolio website](https://codworker.github.io/)
